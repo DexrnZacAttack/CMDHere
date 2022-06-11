@@ -3,7 +3,7 @@ CMDHere is a shell extension (implementing IContextMenu) written in C# for Windo
 
 # Disclaimer
 CMDHere doesn't come with any warranty<br>
-CMDHere isn't responsible for any damage that might be caused<br><br>
+CMDHere isn't responsible for any damage that might be caused<br>
 !! USE AT YOUR OWN RISK !!
 
 # Requirements
